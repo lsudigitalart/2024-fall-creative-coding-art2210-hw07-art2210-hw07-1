@@ -17,7 +17,7 @@ function mousePressed() {
   startTime = millis();
 
 }
-
+ 
 function draw() {
     background(220);
 
